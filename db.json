@@ -1,0 +1,26 @@
+{
+  "tracks": [
+    {
+      "id": 0,
+      "name": "Bahrain International Circuit",
+      "country": "Bahrain",
+      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png.transform/8col/image.png",
+      "date": "20 March",
+      "length": "5.412",
+      "laps": "57",
+      "lapRecord": "1:31.447",
+      "driver": "Pedro de la Rosa (2005)"
+    },
+    {
+      "id": 1,
+      "name": "Jeddah Corniche Circuit",
+      "country": "Saudi Arabia",
+      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/8col/image.png",
+      "date": "27 March",
+      "length": "6.174",
+      "laps": "50",
+      "lapRecord": "1:30.734",
+      "driver": "Lewis Hamilton (2021)"
+    }
+  ]
+}
