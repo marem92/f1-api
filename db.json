@@ -4,6 +4,7 @@
       "id": 0,
       "name": "Bahrain International Circuit",
       "country": "Bahrain",
+      "venue": "Sakhir",
       "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png.transform/8col/image.png",
       "date": "20 March",
       "length": "5.412",
@@ -15,12 +16,37 @@
       "id": 1,
       "name": "Jeddah Corniche Circuit",
       "country": "Saudi Arabia",
+      "venue": "Jeddah",
       "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/8col/image.png",
       "date": "27 March",
       "length": "6.174",
       "laps": "50",
       "lapRecord": "1:30.734",
       "driver": "Lewis Hamilton (2021)"
+    },
+    {
+      "id": 2,
+      "name": "Melbourne Grand Prix Circuit",
+      "country": "Australia",
+      "venue": "Melbourne",
+      "imageUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/9col/image.png",
+      "date": "10 April",
+      "length": "5.303",
+      "laps": "58",
+      "lapRecord": "1:24.125",
+      "driver": "Michael Schumacher (2004)"
+    },
+    {
+      "id": 3,
+      "name": "Autodromo Enzo e Dino Ferrari",
+      "country": "Italy",
+      "venue": "Imola",
+      "imageUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png.transform/8col/image.png",
+      "date": "24 April",
+      "length": "4.909",
+      "laps": "63",
+      "lapRecord": "1:15.484",
+      "driver": "Lewis Hamilton (2020)"
     }
   ]
 }
