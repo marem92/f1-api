@@ -29,7 +29,7 @@
       "name": "Melbourne Grand Prix Circuit",
       "country": "Australia",
       "venue": "Melbourne",
-      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/9col/image.png",
+      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/8col/image.png",
       "date": "10 April",
       "length": "5.303",
       "laps": "58",
@@ -47,6 +47,30 @@
       "laps": "63",
       "lapRecord": "1:15.484",
       "driver": "Lewis Hamilton (2020)"
+    },
+    {
+      "id": 4,
+      "name": "The Miami International Autodrome",
+      "country": "United States",
+      "venue": "Miami",
+      "imgUrl": "https://s31920.pcdn.co/wp-content/uploads/2021/11/NEW-Miami_Map_ArtGraphic_1-2-600x371.jpg",
+      "date": "8 May",
+      "length": "5.410",
+      "laps": "57",
+      "lapRecord": "N/A",
+      "driver": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "venue": "Barcelona",
+      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.png.transform/8col/image.png",
+      "date": "22 May",
+      "length": "4.675",
+      "laps": "66",
+      "lapRecord": "1:18.149",
+      "driver": "Max Verstappen (2021)"
     }
   ]
 }
