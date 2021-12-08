@@ -71,6 +71,42 @@
       "laps": "66",
       "lapRecord": "1:18.149",
       "driver": "Max Verstappen (2021)"
+    },
+    {
+      "id": 6,
+      "name": "Circuit de Monaco",
+      "country": "Monaco",
+      "venue": "Monaco",
+      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png.transform/8col/image.png",
+      "date": "29 May",
+      "length": "3.337",
+      "laps": "78",
+      "lapRecord": "1:12.909",
+      "driver": "Lewis Hamilton (2021)"
+    },
+    {
+      "id": 7,
+      "name": "Baku City Circuit",
+      "country": "Azerbaijan",
+      "venue": "Baku",
+      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.png.transform/8col/image.png",
+      "date": "12 June",
+      "length": "6.003",
+      "laps": "51",
+      "lapRecord": "1:43.009",
+      "driver": "Charles Leclerc (2019)"
+    },
+    {
+      "id": 8,
+      "name": "Circuit Gilles-Villeneuve",
+      "country": "Canada",
+      "venue": "Montreal",
+      "imgUrl": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png.transform/8col/image.png",
+      "date": "19 June",
+      "length": "4.361",
+      "laps": "70",
+      "lapRecord": "1:13.078",
+      "driver": "Valtteri Bottas (2019)"
     }
   ]
 }
